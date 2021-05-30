@@ -1,0 +1,1 @@
+# sum-and-average-of-the-numbers
